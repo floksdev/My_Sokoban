@@ -1,4 +1,4 @@
-# Sokoban
+# My_Sokoban
 🕹️| Sokoban Game ( Puzzle game )
 
 ***Informations :***
